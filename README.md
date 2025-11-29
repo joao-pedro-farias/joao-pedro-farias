@@ -52,8 +52,9 @@ Tenho interesse em:
 
 ## 📈 Linguagens mais usadas
 <div align="center">
-
-<img src="https://github-readme-stats-rho-olive.vercel.app/api/top-langs/?username=joao-pedro-farias&layout=compact&theme=github_dark&hide_border=true" />
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 
 </div>
 

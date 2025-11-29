@@ -39,12 +39,11 @@ I am interested in:
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats 
 <div align="center">
-
-<img src="https://github-readme-stats-rho-olive.vercel.app/api?username=joao-pedro-farias&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=joao-pedro-farias&theme=github_dark&hide_border=true" />
+  
+<img src="https://github-readme-stats-rho-olive.vercel.app/api?username=joao-pedro-farias&show_icons=true&theme=github_dark&hide_border=true" /> 
+<img src="https://streak-stats.vercel.app?user=joao-pedro-farias&theme=github_dark&hide_border=true" />
 
 </div>
 

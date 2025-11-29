@@ -2,55 +2,56 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2933,100:0b1220&height=180&section=header&text=João%20Pedro%20Farias&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-### Estudante de Análise e Desenvolvimento de Sistemas
+### Systems Analysis and Development Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=22D3EE&center=true&vCenter=true&width=460&lines=Python+%7C+SQL+%7C+Linux;Explorando+CLI+e+sistemas;Construindo+base+s%C3%B3lida+em+programa%C3%A7%C3%A3o" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=22D3EE&center=true&vCenter=true&width=460&lines=Python+%7C+SQL+%7C+Linux;Exploring+CLI+and+systems;Building+a+solid+programming+foundation" />
 
 </div>
 
 ---
 
-## 👋 Sobre mim
+## About Me
 
-Tenho **18 anos** e curso **Análise e Desenvolvimento de Sistemas**.  
-Gosto de aprender na prática, principalmente usando **Linux**, **terminal** e **Python**.
+I am **18 years old** and currently studying **Systems Analysis and Development**.  
+I enjoy learning by doing, especially working with **Linux**, the **terminal**, and **Python**.
 
-Tenho interesse em:
-- lógica de programação
-- código limpo e organizado
-- entender como softwares funcionam por baixo dos panos
+I am interested in:
+- programming logic
+- writing clean and organized code
+- understanding how software works under the hood
 
 ---
 
-## 🛠️ Tech stack
+## Tech Stack
 
 ### Core
 - Python
 - SQL
 - Linux
 
-### Ferramentas
+### Tools
 - Git
 - Bash
 - Neovim
 
-### Familiaridade
+### Familiar with
 - Windows
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <div align="center">
 
 <img src="https://github-readme-stats-rho-olive.vercel.app/api?username=joao-pedro-farias&show_icons=true&theme=github_dark&hide_border=true" />
 
-<img src="https://streak-stats.vercel.app?user=joao-pedro-farias&theme=github_dark&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=joao-pedro-farias&theme=github_dark&hide_border=true" />
 
 </div>
 
 ---
 
-## 📈 Linguagens mais usadas
+## Languages
+
 <div align="center">
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -60,9 +61,9 @@ Tenho interesse em:
 
 ---
 
-## 🎯 Objetivo
+## Goal
 
-Construir uma **base sólida como desenvolvedor**, evoluindo aos poucos com estudo constante, prática e projetos próprios.
+Build a **solid foundation as a developer**, gradually improving through study, practice, and personal projects.
 
 ---
 
